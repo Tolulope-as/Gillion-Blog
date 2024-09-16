@@ -10,13 +10,13 @@ Hey i'm Tolulope and this is a Blog website i designed called gillion
   - [Author](#author)
 
 ## Overview
-This is a user-friendly blogging platform where users can read, and interact with blog posts. This project involves creating multiple pages, including a homepage, individual post pages, author profiles, and more, with a strong emphasis on design, user experience and advanced features like pagination and search.
+This is a user-friendly blogging platform where users can read, and interact with blog posts. This project involves creating multiple pages, including a homepage, individual post pages, author-profiles, and more, with a strong emphasis on design, user experience and advanced features like pagination and search.
 ### Features
-- Landing Page:It features Trensing and Newest blog posts that align with the theme - tech.
-- Blogs Page:  This page displays a list of blog posts with titles, author, and featured images.s.
--  📌 Wishlist Page: The Page contains Posts a userbookmark or "wish" posts they want to save for later.
-- :email: Newsletter Signup : This feature allows users to add their email for recieving newsletter.
-- Search and Filter: Users can search for posts and filter results based on title, author, or tag.
+- 🏠:c Landing Page:It features Trensing and Newest blog posts that align with the theme - tech.
+- 📃cs Blogs Page:  This page displays a list of blog posts with titles, author, and featured images.s.
+- 📌 Wishlist Page: The Page contains Posts a userbookmark or "wish" posts they want to save for later.
+- 📩 Newsletter Signup : This feature allows users to add their email for recieving newsletter.
+- 🔎 Search and Filter: Users can search for posts and filter results based on title, author, or tag.
   
   
 ### Technologies
