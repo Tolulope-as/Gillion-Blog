@@ -14,7 +14,7 @@ This is a user-friendly blogging platform where users can read, and interact wit
 ### Features
 - Landing Page:It features Trensing and Newest blog posts that align with the theme - tech.
 - Blogs Page:  This page displays a list of blog posts with titles, author, and featured images.s.
-- Wishlist Page: The Page contains Posts a userbookmark or "wish" posts they want to save for later.
+-  📌 Wishlist Page: The Page contains Posts a userbookmark or "wish" posts they want to save for later.
 - :email: Newsletter Signup : This feature allows users to add their email for recieving newsletter.
 - Search and Filter: Users can search for posts and filter results based on title, author, or tag.
   
@@ -57,8 +57,9 @@ Once the development server is running, open your web browser and navigate to `h
 - **LAnding Page:** Browse the welcome message and introductory content.
 - **Blogs Page:** View available posts for different categories.
 - **Wishllist Page:** Add various posts to Wishlist page .
-[!TIP]
-For a better experience, ensure that you have a stable internet connection to view any external resources or images.
+- 
+> [!TIP]
+> For a better experience, ensure that you have a stable internet connection to view any external resources or images.
 ## Author
  All done and written by me - Arowosegbe Tolulope.
 
