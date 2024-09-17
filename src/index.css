@@ -18,7 +18,9 @@ header{
 nav{
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content:center;
+    /* border: 2px solid yellow; */
+    position: relative;
 }
 
 ul{
@@ -62,6 +64,11 @@ ul{
   padding: 5px 22px;
   margin-bottom: 18px;
   margin-right: 10px;
+}
+.login-profile{
+  position: absolute;
+  right:20px;
+  bottom:0;
 }
 .nav-login:hover{
   opacity: 0.8;
@@ -424,6 +431,9 @@ section.blog {
   font-size: 25px;
   top: 0;
   right: 0;
+}
+.save-icon:active{
+  color: #21aa63;
 }
 .read{
     text-align: center;

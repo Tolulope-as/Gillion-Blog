@@ -55,9 +55,7 @@ function NavBar() {
         <i class="bi bi-list menu-icon"></i>
         </div>
         <nav>
-            <div className="d-flex justify-content-center align-items-center ">
-            
-            </div>
+           
             <div className=" ">
                 <ul>
                     <li className="px-3">
@@ -78,13 +76,13 @@ function NavBar() {
                 </ul>
             </div>
             {userDetails ? (
-            <div className="d-flex justify-content-center align-items-center ">
+            <div className="d-flex justify-content-center align-items-center login-profile">
             <i class="bi bi-person-fill profile" ></i>
             <p className="me-4">{userDetails.username}</p>
             <button onClick={handleLogout}className="nav-login login-link">Logout</button>
             </div>
                ) :(
-                <button className="nav-login">
+                <button className="nav-login ">
                     <Link className="login-link" to="/login">Login</Link>
                 </button>
                 
