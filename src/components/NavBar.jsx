@@ -76,9 +76,11 @@ function NavBar() {
                 </ul>
             </div>
             {userDetails ? (
-            <div className="d-flex justify-content-center align-items-center login-profile">
+            <div className="d-flex justify-content-center align-items-center login-profile ">
+                <div className="user">
             <i class="bi bi-person-fill profile" ></i>
             <p className="me-4">{userDetails.username}</p>
+            </div>
             <button onClick={handleLogout}className="nav-login login-link">Logout</button>
             </div>
                ) :(
