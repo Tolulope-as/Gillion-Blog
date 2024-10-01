@@ -15,8 +15,9 @@ This is a user-friendly blogging platform where users can read, and interact wit
 -  Landing Page:It features Trensing and Newest blog posts that align with the theme - tech.
 -  Blogs Page:  This page displays a list of blog posts with titles, author, and featured images.s.
 -  Wishlist Page: The Page contains Posts a userbookmark or "wish" posts they want to save for later.
--  Newsletter Signup : This feature allows users to add their email for recieving newsletter.
+-  Signup& Login : This feature allows users to register and also log into their accounts.
 -  Search and Filter: Users can search for posts and filter results based on title, author, or tag.
+  
   
   
 ### Technologies
