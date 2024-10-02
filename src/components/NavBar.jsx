@@ -41,6 +41,8 @@ function NavBar() {
         try {
             await auth.signOut();
             console.log('User logged out!');
+            window.location.href = "/";
+
             
         } catch (error) {
             console.log("Error loggin out:", error.message);
@@ -78,9 +80,10 @@ function NavBar() {
             {userDetails ? (
             <div className="d-flex justify-content-center align-items-center login-profile ">
                 <div className="user">
-            <i class="bi bi-person-fill profile" ></i>
+            <i class="bi bi-person-fill profile " ></i>
             <p className="me-4">{userDetails.username}</p>
             </div>
+
             <button onClick={handleLogout}className="nav-login login-link">Logout</button>
             </div>
                ) :(
